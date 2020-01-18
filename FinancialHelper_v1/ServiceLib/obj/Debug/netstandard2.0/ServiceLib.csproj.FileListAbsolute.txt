@@ -1,0 +1,11 @@
+D:\Training\trainingRepo\FinancialHelper_v1\ServiceLib\bin\Debug\netstandard2.0\ServiceLib.deps.json
+D:\Training\trainingRepo\FinancialHelper_v1\ServiceLib\bin\Debug\netstandard2.0\ServiceLib.dll
+D:\Training\trainingRepo\FinancialHelper_v1\ServiceLib\bin\Debug\netstandard2.0\ServiceLib.pdb
+D:\Training\trainingRepo\FinancialHelper_v1\ServiceLib\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+D:\Training\trainingRepo\FinancialHelper_v1\ServiceLib\obj\Debug\netstandard2.0\ServiceLib.csproj.CoreCompileInputs.cache
+D:\Training\trainingRepo\FinancialHelper_v1\ServiceLib\obj\Debug\netstandard2.0\ServiceLib.AssemblyInfoInputs.cache
+D:\Training\trainingRepo\FinancialHelper_v1\ServiceLib\obj\Debug\netstandard2.0\ServiceLib.AssemblyInfo.cs
+D:\Training\trainingRepo\FinancialHelper_v1\ServiceLib\obj\Debug\netstandard2.0\ServiceLib.csproj.CopyComplete
+D:\Training\trainingRepo\FinancialHelper_v1\ServiceLib\obj\Debug\netstandard2.0\ServiceLib.dll
+D:\Training\trainingRepo\FinancialHelper_v1\ServiceLib\obj\Debug\netstandard2.0\ServiceLib.pdb
+D:\Training\trainingRepo\FinancialHelper_v1\ServiceLib\obj\Debug\netstandard2.0\ServiceLib.csprojAssemblyReference.cache

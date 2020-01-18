@@ -1,0 +1,10 @@
+D:\Training\trainingRepo\FinancialHelper_v1\FinancialProgram\bin\Debug\FinancialProgram.exe.config
+D:\Training\trainingRepo\FinancialHelper_v1\FinancialProgram\bin\Debug\FinancialProgram.exe
+D:\Training\trainingRepo\FinancialHelper_v1\FinancialProgram\bin\Debug\FinancialProgram.pdb
+D:\Training\trainingRepo\FinancialHelper_v1\FinancialProgram\bin\Debug\ServiceLib.dll
+D:\Training\trainingRepo\FinancialHelper_v1\FinancialProgram\bin\Debug\Newtonsoft.Json.dll
+D:\Training\trainingRepo\FinancialHelper_v1\FinancialProgram\bin\Debug\ServiceLib.pdb
+D:\Training\trainingRepo\FinancialHelper_v1\FinancialProgram\obj\Debug\FinancialProgram.csproj.CoreCompileInputs.cache
+D:\Training\trainingRepo\FinancialHelper_v1\FinancialProgram\obj\Debug\FinancialProgram.csproj.CopyComplete
+D:\Training\trainingRepo\FinancialHelper_v1\FinancialProgram\obj\Debug\FinancialProgram.exe
+D:\Training\trainingRepo\FinancialHelper_v1\FinancialProgram\obj\Debug\FinancialProgram.pdb
